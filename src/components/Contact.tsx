@@ -48,7 +48,7 @@ const Contact: React.FC = () => {
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">Contactez-nous</h2>
             <p className="text-lg text-gray-600 mb-8">
               Prêt à transformer votre entreprise ? Remplissez le formulaire ou contactez-nous directement. 
-              Notre équipe vous répondra dans les plus brefs délais.
+              Notre équipe basée au Cameroun vous répondra dans les plus brefs délais.
             </p>
             
             <div className="space-y-6">
@@ -58,7 +58,7 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900 mb-1">Adresse</h4>
-                  <p className="text-gray-600">123 Rue des Entrepreneurs, 75000 Paris, France</p>
+                  <p className="text-gray-600">Immeuble Business Center, Rue de l'Entreprise, Yaoundé, Cameroun</p>
                 </div>
               </div>
               
@@ -68,7 +68,7 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900 mb-1">Téléphone</h4>
-                  <p className="text-gray-600">+33 1 23 45 67 89</p>
+                  <p className="text-gray-600">+237 6 99 99 99 99</p>
                 </div>
               </div>
               
@@ -78,7 +78,7 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900 mb-1">Email</h4>
-                  <p className="text-gray-600">contact@servicepro.fr</p>
+                  <p className="text-gray-600">contact@servicepro.cm</p>
                 </div>
               </div>
             </div>

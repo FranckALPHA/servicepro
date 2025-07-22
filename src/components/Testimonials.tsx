@@ -4,24 +4,24 @@ import { Star } from 'lucide-react';
 const Testimonials: React.FC = () => {
   const testimonials = [
     {
-      name: 'Sophie Martin',
-      role: 'Directrice Marketing, EcoTech',
-      image: 'https://randomuser.me/api/portraits/women/43.jpg',
-      text: 'ServicePro a complètement transformé notre présence en ligne. Notre trafic a augmenté de 300% en seulement 6 mois grâce à leur expertise en SEO et développement web.',
+      name: 'Marie Nkoumou',
+      role: 'Directrice Marketing, AgroTech Cameroon',
+      image: 'https://randomuser.me/api/portraits/women/78.jpg',
+      text: "ServicePro a transformé notre présence digitale en Afrique Centrale. Leur expertise locale et leur compréhension du marché camerounais ont été précieuses.",
       rating: 5
     },
     {
-      name: 'Thomas Leroy',
-      role: 'CEO, FoodExpress',
-      image: 'https://randomuser.me/api/portraits/men/32.jpg',
-      text: 'Leur équipe a développé une application mobile exceptionnelle pour notre service de livraison. Leur professionnalisme et leur réactivité ont dépassé nos attentes.',
+      name: 'Jean-Pierre Mfoumou',
+      role: 'PDG, Yaoundé Express',
+      image: 'https://randomuser.me/api/portraits/men/55.jpg',
+      text: 'L\'équipe de ServicePro a développé une solution de paiement mobile adaptée aux besoins spécifiques du Cameroun. Leur réactivité et leur professionnalisme sont exemplaires.',
       rating: 5
     },
     {
-      name: 'Élodie Dubois',
-      role: 'Fondatrice, BelleNature',
-      image: 'https://randomuser.me/api/portraits/women/65.jpg',
-      text: 'La refonte de notre identité visuelle par ServicePro a été un tournant pour notre marque. Leur compréhension de notre vision et leur créativité ont donné des résultats spectaculaires.',
+      name: 'Claire Ndzana',
+      role: 'Fondatrice, Afrique Mode',
+      image: 'https://randomuser.me/api/portraits/women/88.jpg',
+      text: 'La refonte de notre site e-commerce par ServicePro a permis d\'augmenter nos ventes de 200% en un an. Leur compréhension de notre clientèle locale est remarquable.',
       rating: 4.5
     }
   ];

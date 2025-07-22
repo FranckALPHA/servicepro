@@ -8,7 +8,7 @@ const Pricing: React.FC = () => {
     {
       name: 'Starter',
       description: 'Parfait pour les petites entreprises et startups',
-      price: '99€',
+      price: '150 000 XAF',
       features: [
         { text: 'Site web basique', included: true },
         { text: '5 pages maximum', included: true },
@@ -22,7 +22,7 @@ const Pricing: React.FC = () => {
     {
       name: 'Professionnel',
       description: 'Solution complète pour les entreprises en croissance',
-      price: '299€',
+      price: '450 000 XAF',
       features: [
         { text: 'Site web complet', included: true },
         { text: "Jusqu'à 15 pages", included: true },
@@ -36,7 +36,7 @@ const Pricing: React.FC = () => {
     {
       name: 'Entreprise',
       description: 'Solution premium pour les grandes entreprises',
-      price: '599€',
+      price: '900 000 XAF',
       features: [
         { text: 'Site web sur mesure', included: true },
         { text: 'Pages illimitées', included: true },
@@ -77,7 +77,7 @@ const Pricing: React.FC = () => {
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Nos Tarifs</h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Des solutions adaptées à tous les budgets avec une qualité irréprochable.
+            Des solutions adaptées à tous les budgets avec une qualité irréprochable, adaptées au marché camerounais.
           </p>
         </div>
         
